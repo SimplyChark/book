@@ -10,7 +10,7 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
 ==== Looking into the Nature of Thought
 
 When a thought arises, or when thoughts are proliferating, use awareness
-to look into them. When they disappear, rest in that presence.
+to look into it. When a thought disappears, before the next thought arises, rest in that presence.
 This is like water being poured into water, since awareness itself
 is cognition looking into cognition.
 

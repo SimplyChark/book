@@ -4,12 +4,12 @@
 
 It's most important to remember the recognition you had before.
 If the recognition was vivid enough, then the practitioner can hinge on that recognition,
-taking the fruit as the path, enough to integrate all experiences.
+taking the fruit as the path, so as to integrate all experiences.
 
 Preliminary dispositions will affect the strength of recognition.
 If someone has done years of meditation, ngondro practices, or even has had
 life-changing experiences, it could determine the depth of recognition and familiarization.
-Here the practitioner is not advised to add more practices, vows, or anything else, but
+Here the practitioner is advised not to add more practices, vows, or anything else, but
 to simply add awareness to your current disposition. Within a month of short sessions
 repeated often, there will be stability (Dzogchen samatha).
 Ultimately, there are no requirements for integrating awareness into one's life.
@@ -86,7 +86,7 @@ of coarse linguistic proliferation.
 
 When the mind is busy on these coarse levels, there's no need to try to stop thoughts or analyze content.
 Familiarizing with effortless abiding, the coarse thoughts will subside and more subtle aspects of mind
-will become exposed within volumetric ever-present awareness.
+will become exposed within volumetric, ever-present awareness.
 At this point, awareness can be nascent, seemingly in the background.
 These coarse narratives have heavier, more noticeable weight, so alleviation is somewhat easy to discern.
 We can feel it when thinking slows down, but also our investment into the thinking can be noticed.
@@ -101,10 +101,10 @@ We can feel it when thinking slows down, but also our investment into the thinki
   // In one instant of remaining in unfabricated naturalness, a kalpa of negative karma is purified.
 ]
 
-Emotions (also corresponding with the sixth aspect) are another kind of thought that the mind is having,
+Emotions (also corresponding with the sixth aspect of consciousness) are another kind of thought that the mind is having,
 but with more body weight than coarse surface thinking.
 In this approach, there's nothing to do with emotions either: they are left in awareness
-during short sessions and also during the normal day/night.
+during short sessions and also during the normal cycle of day and night.
 They can be left as pure energy in awareness as labeling and analysis subside.
 When, through effortlessness, emotions become lighter and coarse thinking has ceased fusing the mind,
 there are more aspects of experience being exposed.
@@ -168,7 +168,7 @@ Doing nothing about our experiences isn't easy at first: many people will slowly
 effortlessness through validation.
 Within a month of consistent practice, one can verify that, when left alone, there is natural
 resolution to affliction and confusion.
-The plasticity of karmic conditioning can exhaust itself within awareness.
+The plasticity of karmic conditioning exhausts itself within awareness.
 
 Referencing the three modes of liberation, we know when we're seeing an old habit, greeting them
 like an old friend.
@@ -237,7 +237,7 @@ Awareness is now naturally discerning and self-resolving conditioned consciousne
 from spacious pure cognition (semnyi, rigpa, vidya).
 Spontaneous presence as empty lucidity or empty cognition begins unveiling ultimate truth,
 mind free from division (bodhicitta).
-In the beginning, mind is divided with an orientation into subject and object,
+In the beginning, mind is orientated and divided into subject and object,
 conditioned by programming, or karmic patterns.
 Like throwing a rock in the air, these patterns have momentum and will oscillate throughout
 sky-like awareness, eventually losing strength in the face of effortlessness.
@@ -258,7 +258,7 @@ For example: "I like ice cream," "My name is John," "My favorite color is red."
 When this reference point is left alone within awareness, there can be equality and evenness
 of the mind, now abiding as awareness in a kind of psychic inversion.
 This is sometimes compared to water being poured into water, or like the space
-inside a vase meeting the space outside the vase when it cracks.
+inside a vase meeting the space outside the vase when it cracks open.
 
 #quote(block: true, attribution: [Pema Karpo @lotsawa-casket])[
   When settling naturally and without contrivance, realization dawns.

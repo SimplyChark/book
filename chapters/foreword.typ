@@ -5,7 +5,7 @@
 This text is mainly created to accompany practitioners of the Meditation Online
 style of Dzogchen but can be used by all kinds of practitioners.
 
-At Meditation Online we have live sessions twice a day, which facilitate the four phases with
+At Meditation Online we have daily live sessions that facilitate the four phases with
 short sessions, inquiry discussions, and text/media explorations.
 These correspond with secret, inner, and outer aspects of the view.
 

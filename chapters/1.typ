@@ -16,7 +16,7 @@ mahasandhi, dzogchen, and many more.
 
 If you take the example of a cup of coffee: then it's like we've spent countless years thinking
 we are the coffee instead of the water.
-During recognition we have an instance of seeing pure water, but our involvement into the coffee soon returns.
+During recognition we have an instance of seeing pure water, but our association with the coffee soon returns.
 What remains is the recognition of water as the basis, and now that the practitioner has caught a glimpse,
 it doesn't go away.
 Metaphorically speaking, we reorientate from the coffee into the water, allowing the coffee
@@ -24,11 +24,12 @@ to naturally disappear on its own as self-liberation.
 Coffee is a metaphor for karma, or conditioned mind.
 If we reside in the karma then we're creating more
 cycling, stirring, conditioning while contracting into movement.
-We build worlds within the turbulence of stirring mind only to have impermanence show us futility.
-Pointing out the nature of mind finally shows us an alternative.
+We build worlds within the turbulence of stirring mind only to have impermanence show us
+the inherent futility of doing so.
+Pointing out the nature of mind finally reveals an alternative.
 
 Usually a practitioner initially accesses pointing out from an authentic lineage of
-awareness-realizers, whether directly in the face of other people or indirectly from dharma they've published.
+awareness-realizers, whether face-to-face or indirectly from dharma books and other published materials.
 Many teachers are constantly broadcasting this simple truth.
 We can find it laced throughout sadhanas (practices), mantras, and iconography like thangkas.
 Liberation upon seeing, like in the case of Dakini script, but also liberation upon hearing,
@@ -55,10 +56,11 @@ has recognized naked awareness.
 There are many indicators we may use for evidence to verify recognition.
 There can be changes in one's appearance, speech, and thinking in general.
 Recognition can be decoded by acknowledging a subtle awareness now present, even if in the background.
-Beings typically immediately apprehend this recognition, and without guidance could delay
-familiarization for a significant time. "Apprehend" means we're not leaving it alone
-as naked awareness but we form concepts, tell stories about awareness, and lay claim to awareness
-as typical patterned tendencies get mingled in.
+Typically, beings immediately apprehend this recognition.
+Without proper guidance, that apprehension may significantly delay familiarization.
+"Apprehend" means we're not leaving it alone as naked awareness, but that we form
+concepts, tell stories about awareness, and lay claim to awareness as our
+typical patterened tendencies get mingled in.
 This is why we have a second phase, which is to familiarize with the recognition.
 
 The togal aspect
@@ -107,9 +109,9 @@ a pure aspect of mind which can be leaned on for direct insight.
 // ]
 
 Here we have many ways to verify if this simple awareness has been recognized as the nature of mind.
-In the Meditation Online method we don't require preliminaries under the assumption that one has found
-the group and connected in a meaningful way, but also, the person can utilize previous practice,
-even life events, as the preliminary.
+In the Meditation Online method we don't require explicit preliminary practices under the assumption that
+finding and meaningfully connecting with the group is itself evidence of suitability.
+Previous practice and even life events can thereby serve as the preliminaries.
 
 After introduction is verified, we can familiarize with pure consciousness,
 embracing the ineffability of our recognition and allowing freedom to unfold.
@@ -163,14 +165,14 @@ Purely present awareness is then planted into the ground of mind as an unforgett
   the Sugata has stated that they all come from the nonrecognition of awareness.
 ]
 
-One can easily discern the difference between abiding in a constant train of thought or emotion,
+One can easily discern the difference between abiding in a constant train of thought or emotion
 versus spacious clear cognition.
 Until recognition, a being is confined to smaller dimensions of consciousness
-(thoughts, emotions, body, sense interaction).
+(thoughts, emotions, body, sense interactions).
 Yet within every thought is awareness, within every sound, emotion, and within
 every sense interaction, there is the same clear knowingness.
 Once recognized, it opens the mind to a dimension free of confinement.
-A mind confused like a person who's heavily intoxicated is now introduced to a refreshing sobriety
+The mind, once confused as if heavily intoxicated, is now introduced to a refreshing sobriety
 free from the intoxication of afflictions (kleshas).
 One is finally introduced to an alternative to cyclic existence.
 Like drinking water for the first time after a long thirst, it can be very refreshing,
@@ -205,7 +207,7 @@ Even if the practitioner only has a slight glimpse, they are introduced to their
 mind and to the four great Dzogchen samayas. They have fully recognized empty cognizance.
 
 Although true recognition has been ensured, in many cases the view will be apprehended by conditioned mind.
-The larger scope includes being diligent and returning to this recognition.
+The larger scope includes being diligent and repeatedly returning to this recognition.
 At this point, the practitioner has made a profound lineage and mandala connection.
 
 
