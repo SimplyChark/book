@@ -146,7 +146,7 @@ mind is untouched by its own expression.
 The evidence for a wider scope of being has presented itself in the lack of conditioning.
 One continues to release and trust until the appearance of an inversion occurs.
 The very mind abiding in awareness is seen as awareness.
-What was once self-liberating is now seen as pure luminosity within a threshold.
+What was once self-liberating is now seen as pure luminosity.
 
 This is pure Dzogchen, non-meditation.
 
