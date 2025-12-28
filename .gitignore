@@ -1,6 +1,7 @@
 # Output files.
 *.pdf
 *.html
+*.epub
 
 # Temporary files.
 *.bak

@@ -5,6 +5,7 @@
 /////////////////////////////////////////////////////////////////////////////////
 
 #let book_title = "Beyond Recognition: Four Phases of Freedom"
+#let book_author = "Lama Dawai Gocha"
 
 /////////////////////////////////////////////////////////////////////////////////
 // Functions
@@ -28,19 +29,13 @@
 // Style and Layout
 /////////////////////////////////////////////////////////////////////////////////
 
-#let template(doc) = {
+#let template(doc) = context {
   set document(
     title: book_title,
-    author: (),
+    author: book_author,
     description: none,
     keywords: (),
     date: auto,
-  )
-
-  set page(
-    paper: "uk-book-b", // 129mm x 198mm (~5" x 7.8")
-    numbering: "1",
-    margin: 1.25cm,
   )
 
   set heading(numbering: "1.1.")
@@ -129,6 +124,20 @@
   show "ngondro": [ngöndro]
   show "Ngondro": [Ngöndro]
 
+  // The page configuration below is only valid for paged targets.
+  //
+  // For reasons that elude me, the "set" below cannot be made conditional
+  // except by means of this early return.
+  if target() != "paged" {
+    doc
+    return
+  }
+
+  set page(
+    paper: "uk-book-b", // 129mm x 198mm (~5" x 7.8")
+    numbering: "1",
+    margin: 1.25cm,
+  )
   doc
 }
 
